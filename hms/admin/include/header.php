@@ -22,7 +22,7 @@
 						<ul class="nav navbar-right">
 							<!-- start: MESSAGES DROPDOWN -->
 								<li  style="padding-top:2% ">
-								<h2>Vihiga Intergrated Hospital Management System</h2>
+								<h2><b>Vihiga Intergrated Hospital Management System</b></h2>
 							</li>
 						
 						
